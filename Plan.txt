@@ -1,0 +1,4 @@
+Rencana pengembangan:
+
+- Menambahkan infromasi jadwal Sholat
+- Menambahkan infromasi jadwal kajian
